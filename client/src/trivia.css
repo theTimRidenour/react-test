@@ -1,0 +1,20 @@
+.answer-block {
+  width: 500px;
+  height: 50px;
+  color: #333344;
+  background-color: #CCCCFF;
+  border: 0px solid #000;
+  border-radius: 3px;
+}
+
+.answer-block:hover {
+  background-color: #BBBBFF;
+}
+
+.correct {
+  color: #00FF00;
+}
+
+.wrong {
+  color: #FF0000;
+}
